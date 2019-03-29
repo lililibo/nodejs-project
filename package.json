@@ -1,12 +1,20 @@
 {
   "name": "nodejs-project",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lililibo/nodejs-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lililibo/nodejs-project/issues"
+  },
+  "homepage": "https://github.com/lililibo/nodejs-project#readme",
+  "description": ""
 }
